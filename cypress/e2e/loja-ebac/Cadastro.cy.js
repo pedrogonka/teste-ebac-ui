@@ -43,4 +43,6 @@ it.only('Deve completar cadastro com sucesso usando comando customizado', () => 
     cy.get('.woocommerce-message').should('exist')
 });
 
+
+
 })

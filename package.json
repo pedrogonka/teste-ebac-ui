@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:dash" : "npx cypress run --record --key a88aa6fe-bf5a-44ba-8ad5-995dcd8becbf"
   },
   "keywords": [],
   "author": "",

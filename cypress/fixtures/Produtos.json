@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Tristan Endurance Tank", 
+        "tamanho": "XL",
+        "cor": "Gray",
+        "quantidade": 2
+    },
+
+    {
+        "nomeProduto": "Apollo Running Short", 
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 2
+    },
+
+    
+    {
+        "nomeProduto": "Torque Power Short", 
+        "tamanho": "33",
+        "cor": "Gray",
+        "quantidade": 2
+    }
+]
